@@ -1,4 +1,3 @@
-import React from 'react'
 import { createServer } from 'miragejs'
 import { GlobalStyle } from './styles/global'
 import { Header } from './components/Header'
