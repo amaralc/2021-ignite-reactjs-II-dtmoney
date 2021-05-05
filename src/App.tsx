@@ -2,7 +2,7 @@ import { GlobalStyle } from './styles/global'
 import { Header } from './components/Header'
 import { Dashboard } from './components/Dashboard';
 
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { NewTransactionModal } from './components/NewTransactionModal';
 
 
